@@ -1,0 +1,3 @@
+1) My file name is "mySecondAssignment.m", this because MATLAB asks to have same name of file as function. Whereas, Folder name is according to the requirement                               "Name_Roll_Assignment". Secondly, I have done it on 2 different ( high & low content ) images saved in the directory. You can also give your own image with it's path.
+2) Open cmd in folder where above file exists and run ( matlab -r "mySecondAssignment('imageName.png', 5); exit;" ) => to close all windows after execution.
+3) Run this (matlab -r "mySecondAssignment('imageName.png', 5); pause;" ) => to remain open the code window and figure windows.
